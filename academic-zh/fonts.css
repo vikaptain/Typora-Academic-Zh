@@ -58,3 +58,9 @@
     font-family: "CamingoCodeRegular";
     src: url('./CamingoCode-Regular-1.woff') format('woff');
 }
+
+@font-face {
+    font-family: "FiraCode-Light";
+    src: url('./FiraCode-Light.woff2') format('woff2');
+}
+
