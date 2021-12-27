@@ -1,5 +1,10 @@
 # Typora 中文学术主题
 
+## 修改记录
+
+代码块字体修改为FiraCode
+
+
 ## 关于主题
 
 基于 Typora 官方的 Academic 以及 [zh-academic](https://github.com/ZJUGuoShuai/zh-academic) 主题，正文字体采用华文中宋，等宽字体采用 CamingoCode，支持深色模式（开发中）。
